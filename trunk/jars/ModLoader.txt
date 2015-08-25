@@ -1,0 +1,48 @@
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader init
+FIN: ModLoader Beta 1.3_01v3 Initializing...
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader readFromClassPath
+FINARE: Adding mods from C:\Users\Erik\Desktop\zombie-craft\bin\minecraft
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader readFromClassPath
+FINARE: Directory found.
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addMod
+FIN: Mod Loaded: "net.minecraft.src.mod_EntAI for ZombieCraft / MC b1.2_02" from mod_EntAI.class
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletM1911.png,38)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletKar98k.png,46)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletM1Garand.png,60)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletMp40.png,61)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletTrenchgun.png,62)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletFlamethrower.png,85)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletRayGun.png,91)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemBulletPanzerfaust.png,92)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunM1911.png,93)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunKar98k.png,101)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunM1Garand.png,102)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunMp40.png,105)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunTrenchgun.png,106)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunFlamethrower.png,107)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunRayGun.png,108)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGunPanzerfaust.png,109)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addOverride
+FINARE: addOverride(/gui/items.png,/sdkzc/itemGrenadeStun.png,117)
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addMod
+FIN: Mod Loaded: "net.minecraft.src.mod_SdkZombieCraft 1.2_02v1" from mod_SdkZombieCraft.class
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader addMod
+FIN: Mod Loaded: "net.minecraft.src.mod_ZombieCraft v1.0" from mod_ZombieCraft.class
+2011-feb-26 16:00:53 net.minecraft.src.ModLoader AddAllRenderers
+FIN: Initialized

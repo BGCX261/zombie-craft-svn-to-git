@@ -1,0 +1,1299 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_22 (Sun Microsystems Inc.)
+
+Name: Packet7.class
+
+Name: StepSoundSand.class
+
+Name: BlockPortal.class
+
+Name: StepSoundStone.class
+
+Name: NoiseGeneratorPerlin.class
+
+Name: MaterialLogic.class
+
+Name: EntityWaterMob.class
+
+Name: CompressedStreamTools.class
+
+Name: TextureFX.class
+
+Name: TextureCompassFX.class
+
+Name: ItemPickaxe.class
+
+Name: TileEntityDispenser.class
+
+Name: RenderItem.class
+
+Name: ItemBucket.class
+
+Name: CanvasIsomPreview.class
+
+Name: IChunkLoader.class
+
+Name: WorldGenFlowers.class
+
+Name: EntityAnimals.class
+
+Name: SoundPoolEntry.class
+
+Name: ItemCloth.class
+
+Name: BlockLeaves.class
+
+Name: CraftingInventoryFurnaceCB.class
+
+Name: EntityGhast.class
+
+Name: BlockRedstoneOre.class
+
+Name: Vec3D.class
+
+Name: EnumToolMaterial.class
+
+Name: BlockPressurePlate.class
+
+Name: PathPoint.class
+
+Name: Render.class
+
+Name: EntityCow.class
+
+Name: EntitySnowball.class
+
+Name: ItemSoup.class
+
+Name: PanelCrashReport.class
+
+Name: NoiseGenerator2.class
+
+Name: CraftingInventoryChestCB.class
+
+Name: GuiUnused.class
+
+Name: EntityFireball.class
+
+Name: TextureLavaFX.class
+
+Name: GuiGameOver.class
+
+Name: ItemBlock.class
+
+Name: IChunkProvider.class
+
+Name: EntitySpider.class
+
+Name: GuiOptions.class
+
+Name: SpawnerAnimals.class
+
+Name: EntityBubbleFX.class
+
+Name: StepSound.class
+
+Name: ItemFishingRod.class
+
+Name: RenderBlocks.class
+
+Name: TileEntityMobSpawner.class
+
+Name: OpenGlCapsChecker.class
+
+Name: ThreadDownloadResources.class
+
+Name: BlockRedstoneTorch.class
+
+Name: GuiScreen.class
+
+Name: EntityPlayerSP.class
+
+Name: BlockChest.class
+
+Name: BlockMobSpawner.class
+
+Name: NoiseGenerator.class
+
+Name: PathEntity.class
+
+Name: RenderSnowball.class
+
+Name: Packet22Collect.class
+
+Name: WorldGenLakes.class
+
+Name: WorldRenderer.class
+
+Name: EntitySheep.class
+
+Name: ItemSnowball.class
+
+Name: EffectRenderer.class
+
+Name: BlockLadder.class
+
+Name: ItemTool.class
+
+Name: ClippingHelper.class
+
+Name: IRecipe.class
+
+Name: RenderPlayer.class
+
+Name: CraftingInventoryCB.class
+
+Name: RenderPainting.class
+
+Name: ModelSheep1.class
+
+Name: EnumSkyBlock.class
+
+Name: ICrafting.class
+
+Name: BlockCloth.class
+
+Name: Packet51MapChunk.class
+
+Name: ModelPig.class
+
+Name: ModelZombie.class
+
+Name: ThreadDownloadImageData.class
+
+Name: EntityPickupFX.class
+
+Name: MobSpawnerTaiga.class
+
+Name: BlockStone.class
+
+Name: AxisAlignedBB.class
+
+Name: WorldGenDungeons.class
+
+Name: RenderSquid.class
+
+Name: Packet8.class
+
+Name: Packet13PlayerLookMove.class
+
+Name: ChunkCache.class
+
+Name: GuiConnectFailed.class
+
+Name: ChunkProviderIso.class
+
+Name: FurnaceRecipes.class
+
+Name: ModelBoat.class
+
+Name: BlockObsidian.class
+
+Name: BlockPumpkin.class
+
+Name: World.class
+
+Name: IMobs.class
+
+Name: RenderBoat.class
+
+Name: EntityLavaFX.class
+
+Name: ModelBiped.class
+
+Name: BlockWorkbench.class
+
+Name: BlockGlass.class
+
+Name: WorldGenMinable.class
+
+Name: BlockJukeBox.class
+
+Name: FontAllowedCharacters.class
+
+Name: EnumOptionsMappingHelper.class
+
+Name: EntitySkeleton.class
+
+Name: GuiMainMenu.class
+
+Name: TexturePackBase.class
+
+Name: GuiTexturePacks.class
+
+Name: MobSpawnerDesert.class
+
+Name: MapGenBase.class
+
+Name: Pathfinder.class
+
+Name: WorldGenCactus.class
+
+Name: CanvasMajongLogo.class
+
+Name: EntityBoat.class
+
+Name: EntityCreeper.class
+
+Name: GuiChat.class
+
+Name: GLAllocation.class
+
+Name: WorldGenLightStone1.class
+
+Name: GuiDownloadTerrain.class
+
+Name: Packet28.class
+
+Name: BlockSand.class
+
+Name: Item.class
+
+Name: RenderFallingSand.class
+
+Name: Slot.class
+
+Name: ItemLog.class
+
+Name: Session.class
+
+Name: GuiDispenser.class
+
+Name: EntityPlayer.class
+
+Name: RenderLiving.class
+
+Name: Packet15Place.class
+
+Name: EntityExplodeFX.class
+
+Name: EntityMobs.class
+
+Name: RecipesTools.class
+
+Name: WorldGenForest.class
+
+Name: BlockBookshelf.class
+
+Name: WorldChunkManagerHell.class
+
+Name: BlockSapling.class
+
+Name: Packet4UpdateTime.class
+
+Name: ModelCow.class
+
+Name: ScreenShotHelper.class
+
+Name: CraftingManager.class
+
+Name: EntityItem.class
+
+Name: NBTTagByteArray.class
+
+Name: Packet16BlockItemSwitch.class
+
+Name: GuiChest.class
+
+Name: Packet103.class
+
+Name: SoundPool.class
+
+Name: TexturePortalFX.class
+
+Name: EnumOptions.class
+
+Name: font.txt
+
+Name: IInvBasic.class
+
+Name: ItemDoor.class
+
+Name: ColorizerGrass.class
+
+Name: PositionTexureVertex.class
+
+Name: GuiContainer.class
+
+Name: ItemRedstone.class
+
+Name: TextureLavaFlowFX.class
+
+Name: Packet10Flying.class
+
+Name: WorldGenBigTree.class
+
+Name: NBTBase.class
+
+Name: EntityCreature.class
+
+Name: BlockOreBlock.class
+
+Name: TexturePackList.class
+
+Name: ModelCreeper.class
+
+Name: EntityReddustFX.class
+
+Name: MathHelper.class
+
+Name: CodecMus.class
+
+Name: RenderChicken.class
+
+Name: EnumArt.class
+
+Name: WorldGenReed.class
+
+Name: CraftingInventoryWorkbenchCB.class
+
+Name: ShapedRecipes.class
+
+Name: Packet100.class
+
+Name: InventoryPlayer.class
+
+Name: ItemStack.class
+
+Name: EntityList.class
+
+Name: TileEntitySpecialRenderer.class
+
+Name: Packet38.class
+
+Name: EnumMovingObjectType.class
+
+Name: ColorizerFoliage.class
+
+Name: RenderEngine.class
+
+Name: Packet24MobSpawn.class
+
+Name: EnumOS1.class
+
+Name: EntitySorter.class
+
+Name: BlockBreakable.class
+
+Name: BlockSnow.class
+
+Name: TileEntityChest.class
+
+Name: EntityFallingSand.class
+
+Name: RenderGlobal.class
+
+Name: Packet14BlockDig.class
+
+Name: BlockFence.class
+
+Name: MCHashTable.class
+
+Name: RecipesCrafting.class
+
+Name: Packet104.class
+
+Name: MobSpawnerBase.class
+
+Name: GuiButton.class
+
+Name: ThreadSleepForever.class
+
+Name: MinecraftImpl.class
+
+Name: Packet.class
+
+Name: RenderFireball.class
+
+Name: ModelBase.class
+
+Name: ItemDye.class
+
+Name: GameWindowListener.class
+
+Name: EnumOSMappingHelper.class
+
+Name: TextureWatchFX.class
+
+Name: GameSettings.class
+
+Name: ChunkProviderLoadOrGenerate.class
+
+Name: RecipeSorter.class
+
+Name: ItemHoe.class
+
+Name: ModelSkeleton.class
+
+Name: BlockDoor.class
+
+Name: Path.class
+
+Name: NBTTagEnd.class
+
+Name: EmptyChunk.class
+
+Name: EnumCreatureType.class
+
+Name: RenderCreeper.class
+
+Name: TileEntityRenderer.class
+
+Name: Chunk.class
+
+Name: Material.class
+
+Name: ModelGhast.class
+
+Name: GuiMultiplayer.class
+
+Name: MovementInputFromOptions.class
+
+Name: EntityLiving.class
+
+Name: MaterialTransparent.class
+
+Name: ItemReed.class
+
+Name: IInventory.class
+
+Name: EntityFish.class
+
+Name: BlockLightStone.class
+
+Name: Packet0KeepAlive.class
+
+Name: RenderEntity.class
+
+Name: WatchableObject.class
+
+Name: RenderArrow.class
+
+Name: RenderSorter.class
+
+Name: RenderPig.class
+
+Name: NBTTagLong.class
+
+Name: UnexpectedThrowable.class
+
+Name: Packet20NamedEntitySpawn.class
+
+Name: RenderSlime.class
+
+Name: LoadingScreenRenderer.class
+
+Name: WorldClient.class
+
+Name: Packet101.class
+
+Name: ItemEgg.class
+
+Name: NBTTagFloat.class
+
+Name: Packet2Handshake.class
+
+Name: InventoryCrafting.class
+
+Name: WorldGenClay.class
+
+Name: BlockOre.class
+
+Name: ModelSheep2.class
+
+Name: Packet105.class
+
+Name: NetClientHandler.class
+
+Name: BlockGravel.class
+
+Name: Packet21PickupSpawn.class
+
+Name: ImageBuffer.class
+
+Name: RecipesDyes.class
+
+Name: ChunkCoordinates.class
+
+Name: BlockCrops.class
+
+Name: BlockIce.class
+
+Name: Packet18ArmAnimation.class
+
+Name: ModelQuadraped.class
+
+Name: ModelSlime.class
+
+Name: BlockLeavesBase.class
+
+Name: ModelMinecart.class
+
+Name: MusInputStream.class
+
+Name: Packet39.class
+
+Name: EntityZombieSimple.class
+
+Name: NBTTagCompound.class
+
+Name: BlockStationary.class
+
+Name: Tessellator.class
+
+Name: BlockSlowSand.class
+
+Name: MinecraftAppletImpl.class
+
+Name: Packet1Login.class
+
+Name: PlayerController.class
+
+Name: RecipesFood.class
+
+Name: InventoryLargeChest.class
+
+Name: BlockButton.class
+
+Name: TexureWaterFlowFX.class
+
+Name: Packet106.class
+
+Name: BlockFlowing.class
+
+Name: GuiCrafting.class
+
+Name: RenderTNTPrimed.class
+
+Name: EntityPortalFX.class
+
+Name: BlockCactus.class
+
+Name: BlockDirt.class
+
+Name: PlayerControllerSP.class
+
+Name: GuiDeleteWorld.class
+
+Name: TileEntity.class
+
+Name: GuiFurnace.class
+
+Name: Packet9.class
+
+Name: GuiIngameMenu.class
+
+Name: TexturePackDefault.class
+
+Name: BlockMinecartTrack.class
+
+Name: EntitySlimeFX.class
+
+Name: EnumOS2.class
+
+Name: NetworkManager.class
+
+Name: Packet3Chat.class
+
+Name: WorldGenerator.class
+
+Name: CanvasMinecraftApplet.class
+
+Name: PlayerControllerTest.class
+
+Name: MapGenCavesHell.class
+
+Name: IWorldAccess.class
+
+Name: RenderFish.class
+
+Name: TileEntitySignRenderer.class
+
+Name: NBTTagInt.class
+
+Name: RenderGhast.class
+
+Name: BlockNote.class
+
+Name: ModelRenderer.class
+
+Name: SlotArmor.class
+
+Name: WorldGenTaiga1.class
+
+Name: EntityRenderer.class
+
+Name: Timer.class
+
+Name: Packet33RelEntityMoveLook.class
+
+Name: KeyBinding.class
+
+Name: WorldGenHellLava.class
+
+Name: ItemSword.class
+
+Name: GuiConflictWarning.class
+
+Name: EntityDiggingFX.class
+
+Name: ChunkProviderHell.class
+
+Name: InventoryBasic.class
+
+Name: NBTTagByte.class
+
+Name: ScaledResolution.class
+
+Name: GuiYesNo.class
+
+Name: Packet102.class
+
+Name: EntityFlameFX.class
+
+Name: Packet5PlayerInventory.class
+
+Name: EntityPainting.class
+
+Name: EntityTNTPrimed.class
+
+Name: Explosion.class
+
+Name: NextTickListEntry.class
+
+Name: ItemBow.class
+
+Name: ItemRenderer.class
+
+Name: MobSpawnerForest.class
+
+Name: Packet6SpawnPosition.class
+
+Name: BlockSandStone.class
+
+Name: IsoImageBuffer.class
+
+Name: SignModel.class
+
+Name: Packet34EntityTeleport.class
+
+Name: BlockReed.class
+
+Name: ItemSeeds.class
+
+Name: ItemMinecart.class
+
+Name: Packet60.class
+
+Name: BlockFluids.class
+
+Name: GuiSelectWorld.class
+
+Name: ImageBufferDownload.class
+
+Name: EnumMobType.class
+
+Name: Packet29DestroyEntity.class
+
+Name: BlockContainer.class
+
+Name: ItemCoal.class
+
+Name: BlockClay.class
+
+Name: ItemSaddle.class
+
+Name: Packet32EntityLook.class
+
+Name: StringTranslate.class
+
+Name: ModelSpider.class
+
+Name: TextureFlamesFX.class
+
+Name: Packet50PreChunk.class
+
+Name: WorldGenLightStone2.class
+
+Name: MaterialLiquid.class
+
+Name: CraftingInventoryDispenserCB.class
+
+Name: LogoEffectRandomizer.class
+
+Name: FontRenderer.class
+
+Name: TileEntityFurnace.class
+
+Name: EntityArrow.class
+
+Name: BlockRedstoneWire.class
+
+Name: Entity.class
+
+Name: Packet23VehicleSpawn.class
+
+Name: NBTTagList.class
+
+Name: MapGenCaves.class
+
+Name: Frustrum.class
+
+Name: BlockStairs.class
+
+Name: MetadataChunkBlock.class
+
+Name: Packet31RelEntityMove.class
+
+Name: ChatLine.class
+
+Name: EntitySplashFX.class
+
+Name: null
+
+Name: NBTTagDouble.class
+
+Name: ItemAxe.class
+
+Name: RenderMinecart.class
+
+Name: BlockFurnace.class
+
+Name: ModelChicken.class
+
+Name: MobSpawnerHell.class
+
+Name: MobSpawnerSwamp.class
+
+Name: RenderList.class
+
+Name: RenderManager.class
+
+Name: NetHandler.class
+
+Name: ThreadDownloadImage.class
+
+Name: EntityClientPlayerMP.class
+
+Name: BlockMushroom.class
+
+Name: WorldBlockPositionType.class
+
+Name: TileEntityNote.class
+
+Name: ChunkLoader.class
+
+Name: RecipesIngots.class
+
+Name: ItemRecord.class
+
+Name: ShapelessRecipes.class
+
+Name: Packet19.class
+
+Name: Packet53BlockChange.class
+
+Name: ThreadRunIsoClient.class
+
+Name: WorldIso.class
+
+Name: Gui.class
+
+Name: TexturedQuad.class
+
+Name: DataWatcher.class
+
+Name: OsMap.class
+
+Name: GuiInventory.class
+
+Name: NoiseGeneratorOctaves.class
+
+Name: NoiseGeneratorOctaves2.class
+
+Name: Packet30Entity.class
+
+Name: Packet130.class
+
+Name: RenderHelper.class
+
+Name: BlockSign.class
+
+Name: pack.png
+
+Name: pack.txt
+
+Name: particles.png
+
+Name: NBTTagShort.class
+
+Name: BlockCake.class
+
+Name: TerrainTextureManager.class
+
+Name: GuiIngame.class
+
+Name: GuiControls.class
+
+Name: MovementInput.class
+
+Name: Teleporter.class
+
+Name: MinecraftException.class
+
+Name: Block.class
+
+Name: ChunkProviderClient.class
+
+Name: EntitySlime.class
+
+Name: Packet40.class
+
+Name: EntityZombie.class
+
+Name: RenderCow.class
+
+Name: ItemSign.class
+
+Name: ItemBoat.class
+
+Name: MovingObjectPosition.class
+
+Name: BlockLog.class
+
+Name: Packet12PlayerLook.class
+
+Name: BlockSoil.class
+
+Name: BlockTorch.class
+
+Name: MinecartTrackLogic.class
+
+Name: TexturePackCustom.class
+
+Name: TextureWaterFX.class
+
+Name: Packet25.class
+
+Name: RenderBiped.class
+
+Name: EntityEgg.class
+
+Name: Packet54.class
+
+Name: GuiConnecting.class
+
+Name: GuiSlider.class
+
+Name: MouseHelper.class
+
+Name: ItemArmor.class
+
+Name: BlockFlower.class
+
+Name: ItemSpade.class
+
+Name: WorldProviderHell.class
+
+Name: ChunkPosition.class
+
+Name: EntityPig.class
+
+Name: NibbleArray.class
+
+Name: InventoryCraftResult.class
+
+Name: HashEntry.class
+
+Name: ModelSquid.class
+
+Name: BlockGrass.class
+
+Name: EntityFlying.class
+
+Name: WorldGenTaiga2.class
+
+Name: EntityChicken.class
+
+Name: Packet52MultiBlockChange.class
+
+Name: CanvasCrashReport.class
+
+Name: WorldGenPumpkin.class
+
+Name: ThreadConnectToServer.class
+
+Name: WorldProvider.class
+
+Name: RecipesWeapons.class
+
+Name: NBTTagString.class
+
+Name: ClippingHelperImplementation.class
+
+Name: EntityRainFX.class
+
+Name: BlockSponge.class
+
+Name: NetworkMasterThread.class
+
+Name: NetworkReaderThread.class
+
+Name: PlayerControllerMP.class
+
+Name: NetworkWriterThread.class
+
+Name: EntitySmokeFX.class
+
+Name: WorldGenLiquids.class
+
+Name: IBlockAccess.class
+
+Name: BlockDispenser.class
+
+Name: BlockLever.class
+
+Name: WorldGenFire.class
+
+Name: EntitySquid.class
+
+Name: RedstoneUpdateInfo.class
+
+Name: WorldChunkManager.class
+
+Name: EntityFX.class
+
+Name: MinecraftError.class
+
+Name: RenderSheep.class
+
+Name: EntityOtherPlayerMP.class
+
+Name: EntityPigZombie.class
+
+Name: IProgressUpdate.class
+
+Name: GuiEditSign.class
+
+Name: ItemFlintAndSteel.class
+
+Name: ChunkProviderGenerate.class
+
+Name: RenderZombieSimple.class
+
+Name: WorldGenTrees.class
+
+Name: RecipesArmor.class
+
+Name: BlockBloodStone.class
+
+Name: MobSpawnerRainforest.class
+
+Name: TileEntitySign.class
+
+Name: EntityMinecart.class
+
+Name: ItemPainting.class
+
+Name: ICamera.class
+
+Name: SoundManager.class
+
+Name: BlockFire.class
+
+Name: Packet255KickDisconnect.class
+
+Name: BlockStep.class
+
+Name: SlotCrafting.class
+
+Name: ItemFood.class
+
+Name: RenderSpider.class
+
+Name: ChunkCoordIntPair.class
+
+Name: CraftingInventoryPlayerCB.class
+
+Name: terrain.png
+
+Name: GuiSmallButton.class
+
+Name: BlockSnowBlock.class
+
+Name: EntityNoteFX.class
+
+Name: Packet11PlayerPosition.class
+
+Name: TileEntityMobSpawnerRenderer.class
+
+Name: BlockTNT.class
+
+Name: armor/chain_1.png
+
+Name: armor/chain_2.png
+
+Name: armor/cloth_1.png
+
+Name: armor/cloth_2.png
+
+Name: armor/diamond_1.png
+
+Name: armor/diamond_2.png
+
+Name: armor/gold_1.png
+
+Name: armor/gold_2.png
+
+Name: armor/iron_1.png
+
+Name: armor/iron_2.png
+
+Name: art/kz.png
+
+Name: environment/clouds.png
+
+Name: environment/rain.png
+
+Name: environment/snow.png
+
+Name: font/default.png
+
+Name: gui/background.png
+
+Name: gui/container.png
+
+Name: gui/crafting.png
+
+Name: gui/furnace.png
+
+Name: gui/gui.png
+
+Name: gui/icons.png
+
+Name: gui/inventory.png
+
+Name: gui/items.png
+
+Name: gui/logo.png
+
+Name: gui/trap.png
+
+Name: gui/unknown_pack.png
+
+Name: item/arrows.png
+
+Name: item/boat.png
+
+Name: item/cart.png
+
+Name: item/door.png
+
+Name: item/sign.png
+
+Name: lang/en_US.lang
+
+Name: misc/dial.png
+
+Name: misc/foliagecolor.png
+
+Name: misc/grasscolor.png
+
+Name: misc/pumpkinblur.png
+
+Name: misc/shadow.png
+
+Name: misc/vignette.png
+
+Name: misc/water.png
+
+Name: mob/char.png
+
+Name: mob/chicken.png
+
+Name: mob/cow.png
+
+Name: mob/creeper.png
+
+Name: mob/ghast.png
+
+Name: mob/ghast_fire.png
+
+Name: mob/pig.png
+
+Name: mob/pigman.png
+
+Name: mob/pigzombie.png
+
+Name: mob/saddle.png
+
+Name: mob/sheep.png
+
+Name: mob/sheep_fur.png
+
+Name: mob/skeleton.png
+
+Name: mob/slime.png
+
+Name: mob/spider.png
+
+Name: mob/spider_eyes.png
+
+Name: mob/squid.png
+
+Name: mob/zombie.png
+
+Name: terrain/moon.png
+
+Name: terrain/sun.png
+
+Name: title/black.png
+
+Name: title/mojang.png
+
+Name: title/splashes.txt
+
+Name: paulscode/sound/Channel.class
+
+Name: paulscode/sound/CommandObject.class
+
+Name: paulscode/sound/CommandThread.class
+
+Name: paulscode/sound/FilenameURL.class
+
+Name: paulscode/sound/ICodec.class
+
+Name: paulscode/sound/Library.class
+
+Name: paulscode/sound/ListenerData.class
+
+Name: paulscode/sound/MidiChannel$1.class
+
+Name: paulscode/sound/MidiChannel$FadeThread.class
+
+Name: paulscode/sound/MidiChannel.class
+
+Name: paulscode/sound/SimpleThread$1.class
+
+Name: paulscode/sound/SimpleThread.class
+
+Name: paulscode/sound/SoundBuffer.class
+
+Name: paulscode/sound/SoundSystem.class
+
+Name: paulscode/sound/SoundSystemConfig$Codec.class
+
+Name: paulscode/sound/SoundSystemConfig.class
+
+Name: paulscode/sound/SoundSystemException.class
+
+Name: paulscode/sound/SoundSystemLogger.class
+
+Name: paulscode/sound/Source.class
+
+Name: paulscode/sound/StreamThread.class
+
+Name: paulscode/sound/Vector3D.class
+
+Name: com/jcraft/jogg/Buffer.class
+
+Name: com/jcraft/jogg/Packet.class
+
+Name: com/jcraft/jogg/Page.class
+
+Name: com/jcraft/jogg/StreamState.class
+
+Name: com/jcraft/jogg/SyncState.class
+
+Name: com/jcraft/jorbis/Block.class
+
+Name: com/jcraft/jorbis/CodeBook$DecodeAux.class
+
+Name: com/jcraft/jorbis/CodeBook.class
+
+Name: com/jcraft/jorbis/Comment.class
+
+Name: com/jcraft/jorbis/Drft.class
+
+Name: com/jcraft/jorbis/DspState.class
+
+Name: com/jcraft/jorbis/Floor0$EchstateFloor0.class
+
+Name: com/jcraft/jorbis/Floor0$InfoFloor0.class
+
+Name: com/jcraft/jorbis/Floor0$LookFloor0.class
+
+Name: com/jcraft/jorbis/Floor0.class
+
+Name: com/jcraft/jorbis/Floor1$EchstateFloor1.class
+
+Name: com/jcraft/jorbis/Floor1$InfoFloor1.class
+
+Name: com/jcraft/jorbis/Floor1$LookFloor1.class
+
+Name: com/jcraft/jorbis/Floor1$Lsfit_acc.class
+
+Name: com/jcraft/jorbis/Floor1.class
+
+Name: com/jcraft/jorbis/FuncFloor.class
+
+Name: com/jcraft/jorbis/FuncMapping.class
+
+Name: com/jcraft/jorbis/FuncResidue.class
+
+Name: com/jcraft/jorbis/FuncTime.class
+
+Name: com/jcraft/jorbis/Info.class
+
+Name: com/jcraft/jorbis/InfoMode.class
+
+Name: com/jcraft/jorbis/Lookup.class
+
+Name: com/jcraft/jorbis/Lpc.class
+
+Name: com/jcraft/jorbis/Lsp.class
+
+Name: com/jcraft/jorbis/Mapping0$InfoMapping0.class
+
+Name: com/jcraft/jorbis/Mapping0$LookMapping0.class
+
+Name: com/jcraft/jorbis/Mapping0.class
+
+Name: com/jcraft/jorbis/Mdct.class
+
+Name: com/jcraft/jorbis/PsyInfo.class
+
+Name: com/jcraft/jorbis/PsyLook.class
+
+Name: com/jcraft/jorbis/Residue0$InfoResidue0.class
+
+Name: com/jcraft/jorbis/Residue0$LookResidue0.class
+
+Name: com/jcraft/jorbis/Residue0.class
+
+Name: com/jcraft/jorbis/Residue1.class
+
+Name: com/jcraft/jorbis/Residue2.class
+
+Name: com/jcraft/jorbis/StaticCodeBook.class
+
+Name: com/jcraft/jorbis/Time0.class
+
+Name: com/jcraft/jorbis/Util.class
+
+Name: net/minecraft/client/Minecraft.class
+
+Name: net/minecraft/client/MinecraftApplet.class
+
+Name: net/minecraft/isom/IsomPreviewApplet.class
+
+Name: paulscode/sound/codecs/CodecJOrbis.class
+
+Name: paulscode/sound/codecs/CodecWav.class
+
+Name: paulscode/sound/libraries/ChannelLWJGLOpenAL.class
+
+Name: paulscode/sound/libraries/LibraryLWJGLOpenAL.class
+
+Name: paulscode/sound/libraries/SourceLWJGLOpenAL.class
+

@@ -1,0 +1,1119 @@
+=== Minecraft Coder Pack 2.7 === 
++ Obfuscating client. 
++ Opening file C:\Users\Erik\Desktop\zombie-craft\conf\minecraft_rev.saffx for reading.
++ Reading classes in C:\Users\Erik\Desktop\zombie-craft\bin\\minecraft.
++ Normalizing mapping tables for net/minecraft/src/BlockMobSpawnerWave.
++ Remapping net/minecraft/src/BlockMobSpawnerWave.
++ Normalizing mapping tables for net/minecraft/src/EntityZombie.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/doublePoints None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/World/totalZombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/nuke None
++ Remapping net/minecraft/src/EntityZombie.
++ Normalizing mapping tables for net/minecraft/src/GuiIngame.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RunOSDHooks (Lnet/minecraft/client/Minecraft;)V
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randItem ()Leo;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/lastRandAdd None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieWave None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCost None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunTrenchgun None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerX None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerY None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerZ None
+	+ Found 0 potential candidates for net/minecraft/src/World/itemToBuy None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/debris1000Plate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunMp40 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunKar98k None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/lastBuy None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunRayGun None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/isActivated None
+	+ Found 0 potential candidates for net/minecraft/src/World/spawnerCount None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/oldEntItem None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/chestZ None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/chestY None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/waveDelay None
+	+ Found 0 potential candidates for net/minecraft/src/World/buyItem None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisY None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randAnimTimer None
+	+ Found 0 potential candidates for net/minecraft/src/World/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/newWave None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1Garand None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1911 None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randomNum None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayerSP/doubleScore None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGrenadeStun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunPanzerfaust None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombHUD None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/chestX None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/canBuy None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randCount None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/lsword None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisZ None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisX None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCount None
+	+ Found 0 potential candidates for net/minecraft/src/World/blockToBuy None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/axis None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu2 None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randWeap None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/buyRandom None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randAnim None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/randTimer None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/myArray None
+	+ Found 3 potential candidates for net/minecraft/src/GuiIngame/count None
+		net/minecraft/src/Packet21PickupSpawn/count
+		net/minecraft/src/MCHashTable/count
+		net/minecraft/src/Path/count
++ Remapping net/minecraft/src/GuiIngame.
++ Normalizing mapping tables for net/minecraft/src/GuiIngameMenu.
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
++ Remapping net/minecraft/src/GuiIngameMenu.
++ Normalizing mapping tables for net/minecraft/src/GuiZombieMenu.
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/friendPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/mobSpawnerWave None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/mbPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/PanzerfaustPlate None
+	+ Found 0 potential candidates for net/minecraft/src/World/spawnerCount None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieWave None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/speedPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/magicStick None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/bettyPlate None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/juggPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/debris1000Plate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/Kar98kPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/Mp40Plate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/M1GarandPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/TrenchgunPlate None
+	+ Found 9 potential candidates for net/minecraft/src/GuiZombieMenu/updateCounter None
+		net/minecraft/src/GuiDownloadTerrain/updateCounter
+		net/minecraft/src/ChatLine/updateCounter
+		net/minecraft/src/GuiEditSign/updateCounter
+		net/minecraft/src/GuiIngame/updateCounter
+		net/minecraft/src/GuiMainMenu/updateCounter
+		net/minecraft/src/GuiIngameMenu/updateCounter
+		net/minecraft/src/GuiChat/updateCounter
+		net/minecraft/src/GuiMultiplayer/updateCounter
+		net/minecraft/src/GuiConflictWarning/updateCounter
+	+ Found 0 potential candidates for net/minecraft/src/World/zombHUD None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/woodSwordPlate None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/stoneSwordPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/FlamethrowerPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/ironSwordPlate None
++ Remapping net/minecraft/src/GuiZombieMenu.
++ Normalizing mapping tables for net/minecraft/src/TileEntityMobSpawnerWave.
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/watchZ None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/watchX None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/watchY None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/lastwave None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/spawnsthiswave None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntityMobSpawnerWave/isActivated None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieWave None
++ Remapping net/minecraft/src/TileEntityMobSpawnerWave.
++ Normalizing mapping tables for net/minecraft/src/TileEntity.
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchZ None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchY None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchX None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/isActivated None
++ Remapping net/minecraft/src/TileEntity.
++ Normalizing mapping tables for net/minecraft/src/World.
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieWave None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCost None
+	+ Found 0 potential candidates for net/minecraft/src/World/itemToBuy None
+	+ Found 0 potential candidates for net/minecraft/src/World/totalZombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCount None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/World/spawnerCount None
+	+ Found 0 potential candidates for net/minecraft/src/World/buyItem None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisY None
+	+ Found 0 potential candidates for net/minecraft/src/World/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/World/blockToBuy None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombHUD None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisZ None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisX None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu2 None
++ Remapping net/minecraft/src/World.
++ Normalizing mapping tables for net/minecraft/src/EntityLiving.
+	+ Found 0 potential candidates for net/minecraft/src/EntityLiving/attackEntityFrom2 (Lnl;IZ)Z
+	+ Found 0 potential candidates for net/minecraft/src/World/instaKill None
++ Remapping net/minecraft/src/EntityLiving.
++ Normalizing mapping tables for net/minecraft/src/Block.
++ Remapping net/minecraft/src/Block.
++ Normalizing mapping tables for net/minecraft/src/BlockInvisPressurePlate.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlate/showBuyMenu None
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlate/cost None
+	+ Found 0 potential candidates for net/minecraft/src/World/blockToBuy None
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlate/itemType None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCost None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerX None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerY None
+	+ Found 0 potential candidates for net/minecraft/src/GuiIngame/triggerZ None
+	+ Found 0 potential candidates for net/minecraft/src/World/itemToBuy None
+	+ Found 3 potential candidates for net/minecraft/src/BlockInvisPressurePlate/count None
+		net/minecraft/src/Packet21PickupSpawn/count
+		net/minecraft/src/MCHashTable/count
+		net/minecraft/src/Path/count
+	+ Found 2 potential candidates for net/minecraft/src/BlockInvisPressurePlate/blockType None
+		net/minecraft/src/BlockStep/blockType
+		net/minecraft/src/BlockPumpkin/blockType
+	+ Found 0 potential candidates for net/minecraft/src/World/buyItem None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu None
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCount None
++ Remapping net/minecraft/src/BlockInvisPressurePlate.
++ Normalizing mapping tables for net/minecraft/src/BlockInvisPressurePlateDebris.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/weapCost None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisZ None
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlateDebris/cost None
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlateDebris/itemType None
+	+ Found 0 potential candidates for net/minecraft/src/World/showBuyMenu2 None
+	+ Found 0 potential candidates for net/minecraft/src/BlockInvisPressurePlateDebris/showBuyMenu None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisX None
+	+ Found 0 potential candidates for net/minecraft/src/World/debrisY None
++ Remapping net/minecraft/src/BlockInvisPressurePlateDebris.
++ Normalizing mapping tables for net/minecraft/src/MobSpawnerBase.
++ Remapping net/minecraft/src/MobSpawnerBase.
++ Normalizing mapping tables for net/minecraft/src/GuiGameOver.
+	+ Found 0 potential candidates for net/minecraft/src/GuiGameOver/lostOwnership (Ljava/awt/datatransfer/Clipboard;Ljava/awt/datatransfer/Transferable;)V
+	+ Found 0 potential candidates for net/minecraft/src/GuiGameOver/getString (I)Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/GuiGameOver/setClipboardContents (Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieWave None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
++ Remapping net/minecraft/src/GuiGameOver.
++ Normalizing mapping tables for net/minecraft/src/ToolBox.
+	+ Found 0 potential candidates for net/minecraft/src/ToolBox/getPrivateValue (Ljava/lang/Class;Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/ToolBox/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 6 potential candidates for net/minecraft/src/ToolBox/instance None
+		net/minecraft/src/RenderManager/instance
+		net/minecraft/src/ClippingHelperImplementation/instance
+		net/minecraft/src/Tessellator/instance
+		net/minecraft/src/CraftingManager/instance
+		net/minecraft/src/TileEntityRenderer/instance
+		net/minecraft/src/StringTranslate/instance
++ Remapping net/minecraft/src/ToolBox.
++ Normalizing mapping tables for net/minecraft/src/EntityMobs.
+	+ Found 0 potential candidates for net/minecraft/src/EntityMobs/seekCloserTarget ()Lnl;
+	+ Found 0 potential candidates for net/minecraft/src/EntityMobs/AIDelay None
++ Remapping net/minecraft/src/EntityMobs.
++ Normalizing mapping tables for net/minecraft/src/BlockFence.
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/debris1000Plate None
++ Remapping net/minecraft/src/BlockFence.
++ Normalizing mapping tables for net/minecraft/src/EntityRenderer.
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaY None
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaX None
++ Remapping net/minecraft/src/EntityRenderer.
++ Normalizing mapping tables for net/minecraft/src/Item.
++ Remapping net/minecraft/src/Item.
++ Normalizing mapping tables for net/minecraft/src/ItemMagicStick.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 5 potential candidates for net/minecraft/src/ItemMagicStick/zCoord None
+		net/minecraft/src/PathPoint/zCoord
+		net/minecraft/src/NoiseGeneratorPerlin/zCoord
+		net/minecraft/src/TileEntity/zCoord
+		net/minecraft/src/NextTickListEntry/zCoord
+		net/minecraft/src/Vec3D/zCoord
+	+ Found 5 potential candidates for net/minecraft/src/ItemMagicStick/yCoord None
+		net/minecraft/src/NoiseGeneratorPerlin/yCoord
+		net/minecraft/src/PathPoint/yCoord
+		net/minecraft/src/Vec3D/yCoord
+		net/minecraft/src/NextTickListEntry/yCoord
+		net/minecraft/src/TileEntity/yCoord
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/mobSpawnerWave None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchZ None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchY None
+	+ Found 0 potential candidates for net/minecraft/src/TileEntity/watchX None
+	+ Found 5 potential candidates for net/minecraft/src/ItemMagicStick/xCoord None
+		net/minecraft/src/NoiseGeneratorPerlin/xCoord
+		net/minecraft/src/TileEntity/xCoord
+		net/minecraft/src/NextTickListEntry/xCoord
+		net/minecraft/src/Vec3D/xCoord
+		net/minecraft/src/PathPoint/xCoord
+	+ Found 0 potential candidates for net/minecraft/src/ItemMagicStick/tmp None
++ Remapping net/minecraft/src/ItemMagicStick.
++ Normalizing mapping tables for net/minecraft/src/PlayerControllerSP.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
++ Remapping net/minecraft/src/PlayerControllerSP.
++ Normalizing mapping tables for net/minecraft/src/PlayerController.
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/betty None
++ Remapping net/minecraft/src/PlayerController.
++ Normalizing mapping tables for net/minecraft/src/ItemJugg.
+	+ Found 0 potential candidates for net/minecraft/src/ItemJugg/field_21002_field_21002_bi None
+	+ Found 0 potential candidates for net/minecraft/src/ItemJugg/field_21003_a21001_a None
++ Remapping net/minecraft/src/ItemJugg.
++ Normalizing mapping tables for net/minecraft/src/ItemSpeed.
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/speedCola None
++ Remapping net/minecraft/src/ItemSpeed.
++ Normalizing mapping tables for net/minecraft/src/ItemFriend.
++ Remapping net/minecraft/src/ItemFriend.
++ Normalizing mapping tables for net/minecraft/src/ItemLSword.
++ Remapping net/minecraft/src/ItemLSword.
++ Normalizing mapping tables for net/minecraft/src/GuiSelectWorld.
++ Remapping net/minecraft/src/GuiSelectWorld.
++ Normalizing mapping tables for net/minecraft/src/GuiSelectWorldZombie.
+	+ Found 0 potential candidates for net/minecraft/src/GuiSelectWorldZombie/cleanUp (Ljava/io/OutputStream;)V
+	+ Found 0 potential candidates for net/minecraft/src/GuiSelectWorldZombie/recursiveUnzip (Ljava/io/File;Ljava/io/File;)Ljava/io/File;
+	+ Found 0 potential candidates for net/minecraft/src/GuiSelectWorldZombie/createFolder (Ljava/io/File;Z)V
+	+ Found 5 potential candidates for net/minecraft/src/GuiSelectWorldZombie/parentScreen None
+		net/minecraft/src/GuiMultiplayer/parentScreen
+		net/minecraft/src/GuiControls/parentScreen
+		net/minecraft/src/GuiOptions/parentScreen
+		net/minecraft/src/GuiYesNo/parentScreen
+		net/minecraft/src/GuiSelectWorld/parentScreen
+	+ Found 4 potential candidates for net/minecraft/src/GuiSelectWorldZombie/screenTitle None
+		net/minecraft/src/GuiControls/screenTitle
+		net/minecraft/src/GuiEditSign/screenTitle
+		net/minecraft/src/GuiOptions/screenTitle
+		net/minecraft/src/GuiSelectWorld/screenTitle
+	+ Found 0 potential candidates for net/minecraft/src/GuiSelectWorldZombie/BUFFER None
+	+ Found 0 potential candidates for net/minecraft/src/GuiSelectWorldZombie/fileCount None
++ Remapping net/minecraft/src/GuiSelectWorldZombie.
++ Normalizing mapping tables for net/minecraft/src/BlockBetty.
++ Remapping net/minecraft/src/BlockBetty.
++ Normalizing mapping tables for net/minecraft/src/EntityPlayer.
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/doubleScoreTimer None
+	+ Found 0 potential candidates for net/minecraft/src/World/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/doubleScore None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/speedCola None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/instaKillTimer None
++ Remapping net/minecraft/src/EntityPlayer.
++ Normalizing mapping tables for net/minecraft/src/EntityPlayerSP.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayerSP/speedCola None
++ Remapping net/minecraft/src/EntityPlayerSP.
++ Normalizing mapping tables for net/minecraft/src/EntityCreature.
+	+ Found 0 potential candidates for net/minecraft/src/EntityCreature/guardOK ()Z
+	+ Found 0 potential candidates for net/minecraft/src/EntityCreature/attackDist None
+	+ Found 0 potential candidates for net/minecraft/src/EntityCreature/guardDist None
+	+ Found 0 potential candidates for net/minecraft/src/EntityCreature/playerToGuard None
++ Remapping net/minecraft/src/EntityCreature.
++ Normalizing mapping tables for net/minecraft/src/InventoryPlayer.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
++ Remapping net/minecraft/src/InventoryPlayer.
++ Normalizing mapping tables for net/minecraft/src/ItemLSword.
++ Remapping net/minecraft/src/ItemLSword.
++ Normalizing mapping tables for net/minecraft/src/SdkZcTools.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/addSounds ()V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/renderTextureOverlay (Ljava/lang/String;F)V
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/soundsAdded None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/minecraft None
++ Remapping net/minecraft/src/SdkZcTools.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletShot.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletShot/func_154_a (LSdkZcEntityBullet;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletShot.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletRocket.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletRocket/func_154_a (LSdkZcEntityBullet;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletRocket.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletRay.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletRay/func_154_a (LSdkZcEntityBullet;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletRay.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletFlame.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletFlame/func_154_a (LSdkZcEntityBullet;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletFlame.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletCasingShell.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletCasingShell/func_154_a (LSdkZcEntityBulletCasing;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletCasingShell.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBulletCasing.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBulletCasing/func_154_a (LSdkZcEntityBulletCasing;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBulletCasing.
++ Normalizing mapping tables for net/minecraft/src/SdkZcRenderBullet.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcRenderBullet/func_154_a (LSdkZcEntityBullet;DDDFF)V
++ Remapping net/minecraft/src/SdkZcRenderBullet.
++ Normalizing mapping tables for net/minecraft/src/SdkZcPair.
+	+ Found 7 potential candidates for net/minecraft/src/SdkZcPair/equals (Ljava/lang/Object;)Z
+		net/minecraft/src/HashEntry/equals
+		net/minecraft/src/ChunkPosition/equals
+		net/minecraft/src/NextTickListEntry/equals
+		net/minecraft/src/ChunkCoordinates/equals
+		net/minecraft/src/ChunkCoordIntPair/equals
+		net/minecraft/src/PathPoint/equals
+		net/minecraft/src/Entity/equals
+	+ Found 7 potential candidates for net/minecraft/src/SdkZcPair/hashCode ()I
+		net/minecraft/src/ChunkCoordIntPair/hashCode
+		net/minecraft/src/ChunkPosition/hashCode
+		net/minecraft/src/Entity/hashCode
+		net/minecraft/src/ChunkCoordinates/hashCode
+		net/minecraft/src/HashEntry/hashCode
+		net/minecraft/src/NextTickListEntry/hashCode
+		net/minecraft/src/PathPoint/hashCode
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/getRight ()Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/getLeft ()Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/right None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/left None
++ Remapping net/minecraft/src/SdkZcPair.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunTrenchgun.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletTrenchgun None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/spread None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunTrenchgun/numBullets None
++ Remapping net/minecraft/src/SdkZcItemGunTrenchgun.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunRayGun.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/spread None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletRayGun None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunRayGun/muzzleVelocityRandomness None
++ Remapping net/minecraft/src/SdkZcItemGunRayGun.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunPanzerfaust.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/damage None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletPanzerfaust None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunPanzerfaust/spread None
++ Remapping net/minecraft/src/SdkZcItemGunPanzerfaust.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunMp40.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletMp40 None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunMp40/spread None
++ Remapping net/minecraft/src/SdkZcItemGunMp40.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunM1911.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletM1911 None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1911/spread None
++ Remapping net/minecraft/src/SdkZcItemGunM1911.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunM1Garand.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletM1Garand None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunM1Garand/spread None
++ Remapping net/minecraft/src/SdkZcItemGunM1Garand.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunKar98k.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletKar98k None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/spread None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunKar98k/recoil None
++ Remapping net/minecraft/src/SdkZcItemGunKar98k.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGunFlamethrower.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/spread None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/soundDelay None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGunFlamethrower/useDelay None
++ Remapping net/minecraft/src/SdkZcItemGunFlamethrower.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGun.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/getInventorySlotContainItem (Lgl;I)I
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/getBulletEntity (Ldn;Lig;F)LSdkZcEntityBullet;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/getBulletCasingEntity (Ldn;Lig;F)LSdkZcEntityBulletCasing;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/useItemInInventory (Lgl;I)I
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleReload (Ldn;Leu;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/currentRecoilH None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/currentRecoilV None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/numBullets None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/lastSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/spread None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/reloadTimes None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/soundDelay None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/lastShot None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/firingSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/lastEmptySound None
++ Remapping net/minecraft/src/SdkZcItemGun.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemGrenadeStun.
++ Remapping net/minecraft/src/SdkZcItemGrenadeStun.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemCustomUseDelay.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemCustomUseDelay/useDelay None
++ Remapping net/minecraft/src/SdkZcItemCustomUseDelay.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemCustomStackSize.
++ Remapping net/minecraft/src/SdkZcItemCustomStackSize.
++ Normalizing mapping tables for net/minecraft/src/SdkZcItemBulletFlamethrower.
++ Remapping net/minecraft/src/SdkZcItemBulletFlamethrower.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityGrenadeStun.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/getLeft ()Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/getPlayersInRange (D)Ljava/util/ArrayList;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/getEntityLivingsInRange (D)Ljava/util/ArrayList;
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MAX_ANGLE None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MIN_DISTANCE None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MIN_PITCH_ANGLE None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/exploded None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MAX_FLASH_TIME_PLAYER None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/BOUNCE_SOUND None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MAX_DISTANCE None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MAX_FLASH_TIME_ENTITY None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenadeStun/MIN_YAW_ANGLE None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/stunGrenadeFlashTimes None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGrenadeStun None
++ Remapping net/minecraft/src/SdkZcEntityGrenadeStun.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityGrenade.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/handleExplode ()V
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/handleBounce ()V
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/exploded None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/bounceSound None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/MIN_BOUNCE_SOUND_VELOCITY None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/bounceSlowFactor None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/initialVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/FUSE_LENGTH None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityGrenade/bounceFactor None
++ Remapping net/minecraft/src/SdkZcEntityGrenade.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletShot.
++ Remapping net/minecraft/src/SdkZcEntityBulletShot.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletRocket.
+	+ Found 0 potential candidates for net/minecraft/src/EntityLiving/attackEntityFrom2 (Lnl;IZ)Z
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletRocket/timeInAir None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletRocket/timeInTile None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletRocket/serverSpawned None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletRocket/entityFiredBy None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletRocket/damage None
++ Remapping net/minecraft/src/SdkZcEntityBulletRocket.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletRay.
++ Remapping net/minecraft/src/SdkZcEntityBulletRay.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletFlame.
+	+ Found 0 potential candidates for net/minecraft/src/EntityLiving/attackEntityFrom2 (Lnl;IZ)Z
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletFlame/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletFlame/timeInTile None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletFlame/timeInAir None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletFlame/entityFiredBy None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletFlame/serverSpawned None
++ Remapping net/minecraft/src/SdkZcEntityBulletFlame.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletCasingShell.
++ Remapping net/minecraft/src/SdkZcEntityBulletCasingShell.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBulletCasing.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletCasing/timeInAir None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletCasing/createdByPlayer None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletCasing/timeInTile None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBulletCasing/entityCreatedBy None
++ Remapping net/minecraft/src/SdkZcEntityBulletCasing.
++ Normalizing mapping tables for net/minecraft/src/SdkZcEntityBullet.
+	+ Found 0 potential candidates for net/minecraft/src/EntityLiving/attackEntityFrom2 (Lnl;IZ)Z
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/recoil None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/currentRecoilV None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBullet/serverSpawned None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/muzzleVelocity None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/damage None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBullet/timeInTile None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBullet/entityFiredBy None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBullet/damage None
+	+ Found 17 potential candidates for net/minecraft/src/mod_SdkZombieCraft/mc None
+		net/minecraft/client/MinecraftApplet/mc
+		net/minecraft/src/NetClientHandler/mc
+		net/minecraft/src/GameSettings/mc
+		net/minecraft/src/LoadingScreenRenderer/mc
+		net/minecraft/src/ItemRenderer/mc
+		net/minecraft/src/TexturePackList/mc
+		net/minecraft/src/EntityRenderer/mc
+		net/minecraft/src/GuiScreen/mc
+		net/minecraft/src/ThreadDownloadResources/mc
+		net/minecraft/src/EntityPlayerSP/mc
+		net/minecraft/src/ThreadSleepForever/mc
+		net/minecraft/src/PlayerController/mc
+		net/minecraft/src/TextureCompassFX/mc
+		net/minecraft/src/GameWindowListener/mc
+		net/minecraft/src/ThreadConnectToServer/mc
+		net/minecraft/src/RenderGlobal/mc
+		net/minecraft/src/GuiIngame/mc
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/muzzleVelocityRandomness None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcEntityBullet/timeInAir None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/spread None
++ Remapping net/minecraft/src/SdkZcEntityBullet.
++ Normalizing mapping tables for net/minecraft/src/mod_SdkZombieCraft.
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/addSounds ()V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/setBlocksExplodable (Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleTestKey (Leu;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/renderAmmo (Lnet/minecraft/client/Minecraft;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/setPrivateValue (Ljava/lang/Class;Ljava/lang/Object;ILjava/lang/Object;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/renderFlash (Lnet/minecraft/client/Minecraft;)V
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/getRight ()Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueEntityId ()I
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleReload (Ldn;Leu;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/getItemDamage (Lgm;)I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getPrivateValue (Ljava/lang/Class;Ljava/lang/Object;I)Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/AddRenderer (Ljava/util/Map;)V
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcTools/renderTextureOverlay (Ljava/lang/String;F)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/overrideMouseCheck0 (I)Z
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/overrideMouseCheck1 (I)Z
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/setItemDamage (Lgm;I)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/setBlocksMineable (Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/OSDHook (Lnet/minecraft/client/Minecraft;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddName (Ljava/lang/Object;Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/ThrowException (Ljava/lang/String;Ljava/lang/Throwable;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/getFlash ()F
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/getNumberInFirstStackInInventory (Lgl;I)I
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcPair/getLeft ()Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterEntityID (Ljava/lang/Class;Ljava/lang/String;I)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/addOverride (Ljava/lang/String;Ljava/lang/String;)I
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleDrawing (Lnet/minecraft/client/Minecraft;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/getNumberInInventory (Lgl;I)I
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/reload (Ldn;Leu;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/Version ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleBreakables ()V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/tick (Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleMouse1 (Z)Z
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/loadProperties ()V
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/handleMouse0 (Z)Z
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/MIN_RECOIL_FIX None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/currentRecoilH None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/blocksExplodable None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/RECOIL_FIX_FACTOR None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/glassAlwaysDestructible None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunRayGun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletRayGun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/testKey None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemGun/requiredBullet None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/reloadKeyDown None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/currentRecoilV None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletPanzerfaust None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletTrenchgun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/reloadKey None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunTrenchgun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/lastReloadDecrementTime None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1Garand None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1911 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/ITEM_ID_OFFSET None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/areBlocksExplodable None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/lastFlashDecrementTime None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/areBlocksMineable None
+	+ Found 0 potential candidates for net/minecraft/src/SdkZcItemCustomUseDelay/useDelay None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunMp40 None
+	+ Found 17 potential candidates for net/minecraft/src/mod_SdkZombieCraft/mc None
+		net/minecraft/client/MinecraftApplet/mc
+		net/minecraft/src/NetClientHandler/mc
+		net/minecraft/src/GameSettings/mc
+		net/minecraft/src/LoadingScreenRenderer/mc
+		net/minecraft/src/ItemRenderer/mc
+		net/minecraft/src/TexturePackList/mc
+		net/minecraft/src/EntityRenderer/mc
+		net/minecraft/src/GuiScreen/mc
+		net/minecraft/src/ThreadDownloadResources/mc
+		net/minecraft/src/EntityPlayerSP/mc
+		net/minecraft/src/ThreadSleepForever/mc
+		net/minecraft/src/PlayerController/mc
+		net/minecraft/src/TextureCompassFX/mc
+		net/minecraft/src/GameWindowListener/mc
+		net/minecraft/src/ThreadConnectToServer/mc
+		net/minecraft/src/RenderGlobal/mc
+		net/minecraft/src/GuiIngame/mc
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/stunGrenadeFlashTimes None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGrenadeStun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/blocksMineable None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunPanzerfaust None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletM1911 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/testKeyDown None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/lastRecoilFixTime None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunKar98k None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/minecraftTicksRan None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletKar98k None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/reloadTimes None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletMp40 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemBulletM1Garand None
++ Remapping net/minecraft/src/mod_SdkZombieCraft.
++ Normalizing mapping tables for net/minecraft/src/mod_EntAI.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterEntityID (Ljava/lang/Class;Ljava/lang/String;I)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_EntAI/OSDHook (Lnet/minecraft/client/Minecraft;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueEntityId ()I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/mod_EntAI/tick (Z)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_EntAI/AddRenderer (Ljava/util/Map;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_EntAI/Version ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/mod_EntAI/minecraftTicksRan None
+	+ Found 17 potential candidates for net/minecraft/src/mod_EntAI/mc None
+		net/minecraft/client/MinecraftApplet/mc
+		net/minecraft/src/NetClientHandler/mc
+		net/minecraft/src/GameSettings/mc
+		net/minecraft/src/LoadingScreenRenderer/mc
+		net/minecraft/src/ItemRenderer/mc
+		net/minecraft/src/TexturePackList/mc
+		net/minecraft/src/EntityRenderer/mc
+		net/minecraft/src/GuiScreen/mc
+		net/minecraft/src/ThreadDownloadResources/mc
+		net/minecraft/src/EntityPlayerSP/mc
+		net/minecraft/src/ThreadSleepForever/mc
+		net/minecraft/src/PlayerController/mc
+		net/minecraft/src/TextureCompassFX/mc
+		net/minecraft/src/GameWindowListener/mc
+		net/minecraft/src/ThreadConnectToServer/mc
+		net/minecraft/src/RenderGlobal/mc
+		net/minecraft/src/GuiIngame/mc
++ Remapping net/minecraft/src/mod_EntAI.
++ Normalizing mapping tables for net/minecraft/src/EntityNode.
++ Remapping net/minecraft/src/EntityNode.
++ Normalizing mapping tables for net/minecraft/client/Minecraft.
+	+ Found 0 potential candidates for net/minecraft/src/EnumOS2/ordinal ()I
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/main ([Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/client/MinecraftApplet/isActive ()Z
+	+ Found 2 potential candidates for net/minecraft/src/ThreadDownloadResources/start ()V
+		net/minecraft/isom/IsomPreviewApplet/start
+		net/minecraft/client/MinecraftApplet/start
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/sdkZombieCraftHandleMouse0 None
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/sdkZombieCraftHandleMouse1 None
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/sdkZombieCraftNotFound None
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/sdkZombieCraftOverrideMouseCheck0 None
+	+ Found 0 potential candidates for net/minecraft/client/Minecraft/sdkZombieCraftOverrideMouseCheck1 None
++ Remapping net/minecraft/client/Minecraft.
++ Normalizing mapping tables for net/minecraft/src/BaseMod.
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/Version ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/KeyboardEvent (Llo;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/ModsLoaded ()V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/GenerateSurface (Ldn;Ljava/util/Random;II)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/RegisterAnimation (Lnet/minecraft/client/Minecraft;)V
+	+ Found 17 potential candidates for net/minecraft/src/BaseMod/toString ()Ljava/lang/String;
+		net/minecraft/src/PathPoint/toString
+		net/minecraft/src/NBTTagCompound/toString
+		net/minecraft/src/ItemStack/toString
+		net/minecraft/src/NBTTagFloat/toString
+		net/minecraft/src/NBTTagLong/toString
+		net/minecraft/src/NBTTagByteArray/toString
+		net/minecraft/src/NBTTagEnd/toString
+		net/minecraft/src/AxisAlignedBB/toString
+		net/minecraft/src/NBTTagShort/toString
+		net/minecraft/src/NBTTagByte/toString
+		net/minecraft/src/NBTTagList/toString
+		net/minecraft/src/NBTTagString/toString
+		net/minecraft/src/Vec3D/toString
+		net/minecraft/src/IChunkProvider/toString
+		net/minecraft/src/HashEntry/toString
+		net/minecraft/src/NBTTagDouble/toString
+		net/minecraft/src/NBTTagInt/toString
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddRecipes (Lfg;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/OSDHook (Lnet/minecraft/client/Minecraft;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/RegisterTextureOverrides ()V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddRenderer (Ljava/util/Map;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/DispenseEntity (Ldn;DDDFFI)Lnl;
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddFuel (I)I
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/OpenModGUI (Leu;Ljava/lang/Object;)Lby;
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/GenerateNether (Ldn;Ljava/util/Random;II)V
++ Remapping net/minecraft/src/BaseMod.
++ Normalizing mapping tables for net/minecraft/src/BlockDispenser.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/DispenseEntity (Ldn;DDDFFI)Lnl;
++ Remapping net/minecraft/src/BlockDispenser.
++ Normalizing mapping tables for net/minecraft/src/ChunkProviderGenerate.
++ Remapping net/minecraft/src/ChunkProviderGenerate.
++ Normalizing mapping tables for net/minecraft/src/CraftingManager.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllRecipes (Lfg;)V
++ Remapping net/minecraft/src/CraftingManager.
++ Normalizing mapping tables for net/minecraft/src/FontRenderer.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterAllTextureOverrides (Lgs;)V
++ Remapping net/minecraft/src/FontRenderer.
++ Normalizing mapping tables for net/minecraft/src/ModLoader.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/isModLoaded (Ljava/lang/String;)Z
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/addAnimation (Lah;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueTerrainSpriteIndex ()I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddArmor (Ljava/lang/String;)I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/setPrivateValue (Ljava/lang/Class;Ljava/lang/Object;ILjava/lang/Object;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllRecipes (Lfg;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getLogger ()Ljava/util/logging/Logger;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueEntityId ()I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/addMod (Ljava/lang/ClassLoader;Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/GenerateNether (Ldn;Ljava/util/Random;II)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getPrivateValue (Ljava/lang/Class;Ljava/lang/Object;I)Ljava/lang/Object;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterAllTextureOverrides (Lgs;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/KeyboardEvent (Llo;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/DispenseEntity (Ldn;DDDFFI)Lnl;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddSmelting (ILgm;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/OSDHook (Lnet/minecraft/client/Minecraft;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddRenderer (Ljava/util/Map;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/DispenseEntity (Ldn;DDDFFI)Lnl;
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/OpenModGUI (Leu;Ljava/lang/Object;)Lby;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddLocalization (Ljava/lang/String;Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueItemSpriteIndex ()I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterBlock (Lpj;Ljava/lang/Class;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddName (Ljava/lang/Object;Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/ThrowException (Ljava/lang/String;Ljava/lang/Throwable;)V
+	+ Found 2 potential candidates for net/minecraft/src/ModLoader/init ()V
+		net/minecraft/src/ClippingHelperImplementation/init
+		net/minecraft/client/MinecraftApplet/init
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/OpenModGUI (Leu;Ljava/lang/Object;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/GenerateSurface (Ldn;Ljava/util/Random;II)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllRenderers (Ljava/util/Map;)V
+	+ Found 17 potential candidates for net/minecraft/src/BaseMod/toString ()Ljava/lang/String;
+		net/minecraft/src/PathPoint/toString
+		net/minecraft/src/NBTTagCompound/toString
+		net/minecraft/src/ItemStack/toString
+		net/minecraft/src/NBTTagFloat/toString
+		net/minecraft/src/NBTTagLong/toString
+		net/minecraft/src/NBTTagByteArray/toString
+		net/minecraft/src/NBTTagEnd/toString
+		net/minecraft/src/AxisAlignedBB/toString
+		net/minecraft/src/NBTTagShort/toString
+		net/minecraft/src/NBTTagByte/toString
+		net/minecraft/src/NBTTagList/toString
+		net/minecraft/src/NBTTagString/toString
+		net/minecraft/src/Vec3D/toString
+		net/minecraft/src/IChunkProvider/toString
+		net/minecraft/src/HashEntry/toString
+		net/minecraft/src/NBTTagDouble/toString
+		net/minecraft/src/NBTTagInt/toString
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getUniqueSpriteIndex (Ljava/lang/String;)I
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddRecipes (Lfg;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterEntityID (Ljava/lang/Class;Ljava/lang/String;I)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RunOSDHooks (Lnet/minecraft/client/Minecraft;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllFuel (I)I
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getLoadedMods ()Ljava/util/List;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/readFromClassPath (Ljava/io/File;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/ModsLoaded ()V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/addOverride (Ljava/lang/String;Ljava/lang/String;I)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/RegisterAnimation (Lnet/minecraft/client/Minecraft;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/loadImage (Lgs;Ljava/lang/String;)Ljava/awt/image/BufferedImage;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/isGUIOpen (Ljava/lang/Class;)Z
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterTileEntity (Ljava/lang/Class;Ljava/lang/String;Lgo;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/PopulateChunk (Lbm;IILdn;)V
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/AddFuel (I)I
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/RegisterTextureOverrides ()V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterKey (LBaseMod;Llo;Z)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/hasInit None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/DEBUG None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/usedTerrainSprites None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/logHandler None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/highestEntityId None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/keyList None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/usedItemSprites None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/field_blockList None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/method_RegisterEntityID None
+	+ Found 6 potential candidates for net/minecraft/src/ModLoader/instance None
+		net/minecraft/src/RenderManager/instance
+		net/minecraft/src/ClippingHelperImplementation/instance
+		net/minecraft/src/Tessellator/instance
+		net/minecraft/src/CraftingManager/instance
+		net/minecraft/src/TileEntityRenderer/instance
+		net/minecraft/src/StringTranslate/instance
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/animList None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/field_armorList None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/field_TileEntityRenderers None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/terrainSpriteIndex None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/method_RegisterTileEntity None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/logger None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/VERSION None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/modList None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/itemSpriteIndex None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/overrides None
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/field_modifiers None
++ Remapping net/minecraft/src/ModLoader.
++ Normalizing mapping tables for net/minecraft/src/ModTexture.
+	+ Found 0 potential candidates for net/minecraft/src/ModTexture/update ()V
+	+ Found 0 potential candidates for net/minecraft/src/ModTexture/pixels None
+	+ Found 0 potential candidates for net/minecraft/src/ModTexture/oldanaglyph None
++ Remapping net/minecraft/src/ModTexture.
++ Normalizing mapping tables for net/minecraft/src/PanelCrashReport.
+	+ Found 0 potential candidates for net/minecraft/src/BaseMod/Version ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/PanelCrashReport/setBackground (Ljava/awt/Color;)V
+	+ Found 0 potential candidates for net/minecraft/src/PanelCrashReport/add (Ljava/awt/Component;Ljava/lang/Object;)V
+	+ Found 0 potential candidates for net/minecraft/src/PanelCrashReport/setLayout (Ljava/awt/LayoutManager;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getLoadedMods ()Ljava/util/List;
++ Remapping net/minecraft/src/PanelCrashReport.
++ Normalizing mapping tables for net/minecraft/src/RenderManager.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllRenderers (Ljava/util/Map;)V
++ Remapping net/minecraft/src/RenderManager.
++ Normalizing mapping tables for net/minecraft/src/TileEntityFurnace.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddAllFuel (I)I
++ Remapping net/minecraft/src/TileEntityFurnace.
++ Normalizing mapping tables for net/minecraft/src/PlayerControllerSP.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/devMode None
++ Remapping net/minecraft/src/PlayerControllerSP.
++ Normalizing mapping tables for net/minecraft/src/SoundManager.
+	+ Found 0 potential candidates for net/minecraft/src/SoundManager/walkFolder (Ljava/io/File;Ljava/io/File;Lfm;)V
+	+ Found 0 potential candidates for net/minecraft/src/SoundManager/loadModAudio (Ljava/lang/String;Lfm;)V
++ Remapping net/minecraft/src/SoundManager.
++ Normalizing mapping tables for net/minecraft/src/Chunk.
++ Remapping net/minecraft/src/Chunk.
++ Normalizing mapping tables for net/minecraft/src/ChunkCache.
++ Remapping net/minecraft/src/ChunkCache.
++ Normalizing mapping tables for net/minecraft/src/MouseHelper.
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaY None
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaX None
++ Remapping net/minecraft/src/MouseHelper.
++ Normalizing mapping tables for net/minecraft/src/EntityRenderer.
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaY None
+	+ Found 0 potential candidates for net/minecraft/src/MouseHelper/deltaX None
++ Remapping net/minecraft/src/EntityRenderer.
++ Normalizing mapping tables for net/minecraft/src/EntityFriend.
+	+ Found 0 potential candidates for net/minecraft/src/EntityFriend/getRandSkin ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/EntityFriend/seekCloserTarget ()Lnl;
+	+ Found 0 potential candidates for net/minecraft/src/EntityFriend/AIDelay None
+	+ Found 0 potential candidates for net/minecraft/src/EntityMobs/playerToGuard None
+	+ Found 0 potential candidates for net/minecraft/src/EntityFriend/guardDist None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1911 None
+	+ Found 2 potential candidates for net/minecraft/src/EntityFriend/defaultHeldItem None
+		net/minecraft/src/EntitySkeleton/defaultHeldItem
+		net/minecraft/src/EntityPigZombie/defaultHeldItem
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunKar98k None
++ Remapping net/minecraft/src/EntityFriend.
++ Normalizing mapping tables for net/minecraft/src/mod_ZombieCraft.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/AddName (Ljava/lang/Object;Ljava/lang/String;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/RegisterBlock (Lpj;)V
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/Version ()Ljava/lang/String;
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunFlamethrower None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/friendPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/betty None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/speed None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/mobSpawnerWave None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/mbPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/PanzerfaustPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/ITEM_ID_OFFSET None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/speedPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunTrenchgun None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/magicStick None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/bettyPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunM1Garand None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/juggPerkPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/debris1000Plate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/Kar98kPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/nuke None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunMp40 None
+	+ Found 17 potential candidates for net/minecraft/src/mod_ZombieCraft/mc None
+		net/minecraft/client/MinecraftApplet/mc
+		net/minecraft/src/NetClientHandler/mc
+		net/minecraft/src/GameSettings/mc
+		net/minecraft/src/LoadingScreenRenderer/mc
+		net/minecraft/src/ItemRenderer/mc
+		net/minecraft/src/TexturePackList/mc
+		net/minecraft/src/EntityRenderer/mc
+		net/minecraft/src/GuiScreen/mc
+		net/minecraft/src/ThreadDownloadResources/mc
+		net/minecraft/src/EntityPlayerSP/mc
+		net/minecraft/src/ThreadSleepForever/mc
+		net/minecraft/src/PlayerController/mc
+		net/minecraft/src/TextureCompassFX/mc
+		net/minecraft/src/GameWindowListener/mc
+		net/minecraft/src/ThreadConnectToServer/mc
+		net/minecraft/src/RenderGlobal/mc
+		net/minecraft/src/GuiIngame/mc
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/jugg None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/lsword None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/TrenchgunPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunPanzerfaust None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/M1GarandPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS5 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_SdkZombieCraft/itemGunKar98k None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/ironSwordPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/woodSwordPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/frienddrink None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/stoneSwordPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/FlamethrowerPlate None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/doublePoints None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS4 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS1 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS2 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS3 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/barricadeS0 None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/Mp40Plate None
++ Remapping net/minecraft/src/mod_ZombieCraft.
++ Normalizing mapping tables for net/minecraft/src/GuiMainMenu.
+	+ Found 0 potential candidates for net/minecraft/src/GuiMainMenu/blockLogo None
++ Remapping net/minecraft/src/GuiMainMenu.
++ Normalizing mapping tables for net/minecraft/src/Explosion.
++ Remapping net/minecraft/src/Explosion.
++ Normalizing mapping tables for net/minecraft/src/EntityItem.
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/doubleScore None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/doubleScoreTimer None
+	+ Found 0 potential candidates for net/minecraft/src/World/mobArr None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/nuke None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/instaKill None
+	+ Found 0 potential candidates for net/minecraft/src/mod_ZombieCraft/doublePoints None
+	+ Found 0 potential candidates for net/minecraft/src/EntityPlayer/instaKillTimer None
++ Remapping net/minecraft/src/EntityItem.
++ Normalizing mapping tables for net/minecraft/src/EntityDog.
+	+ Found 0 potential candidates for net/minecraft/src/EntityDog/onUpdate (Ldn;IIILjava/util/Random;)V
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/World/totalZombieKills None
+	+ Found 0 potential candidates for net/minecraft/src/World/zombieKills None
++ Remapping net/minecraft/src/EntityDog.
++ Normalizing mapping tables for net/minecraft/src/RenderDog.
++ Remapping net/minecraft/src/RenderDog.
++ Normalizing mapping tables for net/minecraft/src/BlockFire.
++ Remapping net/minecraft/src/BlockFire.
++ Normalizing mapping tables for net/minecraft/src/BlockDoor.
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/upgradeDoor (Ldn;IIILeu;I)Z
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/tryDamageDoor (Ldn;IIILeu;)Z
+	+ Found 0 potential candidates for net/minecraft/src/ModLoader/getMinecraftInstance ()Lnet/minecraft/client/Minecraft;
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/updateDoorMeta (Ldn;IIILeu;I)V
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/updateTexture ()V
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/updateDoors (Ldn;IIILeu;)V
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/tryRepairDoor (Ldn;IIILeu;)Z
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/damageDoor (Ldn;IIILeu;I)Z
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/isBarricade (Ldn;III)Z
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/getState (I)I
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/stateToBit (I)I
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/stateToBlockID None
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/tick None
+	+ Found 0 potential candidates for net/minecraft/src/BlockDoor/tick2 None
++ Remapping net/minecraft/src/BlockDoor.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\BlockMobSpawnerWave.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\pn.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\pe.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ks.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\GuiZombieMenu.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\TileEntityMobSpawnerWave.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\kp.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\dn.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ig.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\pj.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\BlockInvisPressurePlate.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\BlockInvisPressurePlateDebris.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\hf.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\bk.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ToolBox.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ey.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\hb.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ll.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\eo.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemMagicStick.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\kn.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\kb.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemJugg.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemSpeed.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemFriend.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemLSword.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\mr.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\GuiSelectWorldZombie.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\BlockBetty.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\eu.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\bz.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\fz.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\gl.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ItemLSword.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcTools.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletShot.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletRocket.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletRay.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletFlame.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletCasingShell.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBulletCasing.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcRenderBullet.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcPair.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunTrenchgun.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunRayGun.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunPanzerfaust.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunMp40.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunM1911.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunM1Garand.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunKar98k.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGunFlamethrower.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGun.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemGrenadeStun.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemCustomUseDelay.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemCustomStackSize.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcItemBulletFlamethrower.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityGrenadeStun.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityGrenade.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletShot.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletRocket.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletRay.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletFlame.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletCasingShell.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBulletCasing.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\SdkZcEntityBullet.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\mod_SdkZombieCraft.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\mod_EntAI.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\EntityNode.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\net/minecraft/client/Minecraft.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\BaseMod.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\rj.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\rx.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\fg.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\nh.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ModLoader.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ModTexture.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\be.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\oc.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ni.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\kn.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\sg.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ib.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\dg.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\qe.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\ll.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\EntityFriend.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\mod_ZombieCraft.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\dz.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\mc.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\fh.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\EntityDog.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\RenderDog.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\sh.class.
+Writing out C:\Users\Erik\Desktop\zombie-craft\final_out\minecraft\hv.class.

@@ -1,0 +1,1 @@
+java -cp retroguard.jar RetroGuard zombiecraft2.jar out.jar script.rgs

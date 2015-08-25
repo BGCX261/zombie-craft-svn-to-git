@@ -1,0 +1,28 @@
+# The RetroGuard internal default script is listed below.
+# You can comment out or add lines to change how the obfuscator works.
+# Please refer to http://retrologic.com/retroguard-docs.html for more details.
+.option Applet
+.option Application
+.option Serializable
+#.option RMI
+#.option RuntimeAnnotations
+#.option Trim
+#.option Repackage
+#.option Generic
+
+.class **
+#.class GuiZombieWorldSlot protected
+#.method;private GuiZombieWorldSlot/* *
+#.field;private GuiZombieWorldSlot/* *
+
+.class io protected
+.method;private io/* *
+.field;private io/* *
+
+.class io protected
+.method;private io/* *
+.field;private io/* *
+
+.class jn protected
+.method;private jn/* *
+.field;private jn/* *
